@@ -1,0 +1,7 @@
+h1, p {
+  font-family: Lato;
+  transition: all 5s;
+}
+*:hover {
+  color:red;
+}
